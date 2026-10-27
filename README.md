@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SKU IQ is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://skuiq.com/
+SKU IQ provides inventory synchronization solutions for small to medium businesses, connecting point‑of‑sale (POS) systems with eCommerce platforms. Their platform automates stock updates, prevents overselling, and consolidates order views across channels like Shopify, TikTok Shop, BigCommerce, and more. SKU IQ offers tiered pricing plans and a free trial, aiming to reduce manual data entry and operational errors for retailers.
+
+**Areas:** Inventory · POS · eCommerce · Sync · Retail · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://skuiq.com/)
+- [Documentation](https://www.skuiq.com/solutions)
+- [Getting started](https://www.skuiq.com/how-it-works)
+- [Pricing](https://www.skuiq.com/pricing)
+- [Sign up](https://app.skuiq.com/register)
+- [Support](https://lp.skuiq.com/support)
+- [Blog](https://www.skuiq.com/blogs)
+- [Terms of service](https://www.skuiq.com/terms)
+- [Privacy policy](https://www.skuiq.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sku-iq/](https://apis.io/providers/sku-iq/).
